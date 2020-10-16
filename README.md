@@ -15,3 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![fenghaojiang's github stats](https://github-readme-stats.vercel.app/api?username=fenghaojiang&show_icons=true&bg_color=30,48C9B0,904e95&title_color=fff&text_color=fff)
+
+# About me
+
+- Chinese :🐍时不时发布一些抽象文章,偶尔记录下一些朋友的抽象语录  
+目前从事Golang开发  
+毕业于🐉鸣学校SCNU的🐉鸣学院
+
+- English :
+
+
+📧 Contact me:  
+- mail : fenghaojiang97@m.scnu.edu.cn

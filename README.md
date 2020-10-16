@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 目前从事Golang开发  
 毕业于🐉鸣学校SCNU的🐉鸣学院
 
-- English :
+- English : Currently working as golang developer  
+Graduate from SCNU
 
 
 📧 Contact me:  

@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 毕业于🐉鸣学校SCNU的🐉鸣学院
 
 - English : Currently working as golang developer  
-Graduate from SCNU
+Graduated from SCNU
 
 
 📧 Contact me:  

@@ -29,15 +29,15 @@ Graduated from SCNU
 **🌈 Languages and Tools:**
 
 <p align="left">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="go" width="70" height="70"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-plain.svg" alt="android" width="70" height="70">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="java" width="70" height="70">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="70" height="70"/>
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="70" height="70"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="70" height="70"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="70" height="70"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-plain-wordmark.svg" alt="docker" width="70" height="70"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/apple/apple-original.svg" alt="vuejs" width="70" height="70"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="go" width="80" height="80"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-plain.svg" alt="android" width="80" height="80">
+<img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="java" width="80" height="80">
+<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="80"/>
+<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="80" height="80"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="80" height="80"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="80" height="80"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-plain-wordmark.svg" alt="docker" width="80" height="80"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/apple/apple-original.svg" alt="vuejs" width="80" height="80"/>
 </p>
 
 <p align="left">

@@ -47,3 +47,40 @@ Graduated from SCNU
 
 📧 Contact me:  
 - mail : fenghaojiang97@m.scnu.edu.cn
+
+<h2>📊 Dream List: </h2>
+<table>
+                <tr>
+                    <td width=215px;>
+                        MacBook Pro
+                    </td>
+                    <td>
+                        19,000RMB
+                    </td>
+                    <td>
+                        ████████░░&nbsp;&nbsp;(0.00 %)
+                    </td>
+                </tr>
+                <tr>
+                    <td width=220px;>
+                        Niz Keyboard
+                    </td>
+                    <td width=145px;>
+                        663RMB
+                    </td>
+                    <td width=230px;>
+                        █░░░░░░░░░&nbsp;&nbsp;(10.15 %)
+                    </td>
+                </tr>
+                <tr>
+                    <td width=220px;>
+                        ToolMaster Steeling Wheel 
+                    </td>
+                    <td width=145px;>
+                        2,899RMB
+                    </td>
+                    <td width=230px;>
+                        ░░░░░░░░░░&nbsp;&nbsp;(0.45 %)
+                    </td>
+                </tr></table>
+<hr>

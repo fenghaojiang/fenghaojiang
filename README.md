@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 # About me
 
 - Chinese :🐍时不时发布一些抽象文章,偶尔记录下一些朋友的抽象语录  
-目前从事Golang开发  
+目前从事Golang开发,喜欢折腾，对前端技术也抱有兴趣  
 毕业于🐉鸣学校SCNU的🐉鸣学院
 
 - English : Currently working as golang developer  

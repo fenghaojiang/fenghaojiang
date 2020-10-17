@@ -107,6 +107,17 @@ Graduated from SCNU
                 </tr>
                 <tr>
                     <td width=215px;>
+                        iPad Air + Apple Pencil
+                    </td>
+                    <td>
+                        5,500RMB
+                    </td>
+                    <td>
+                        ░░░░░░░░░░&nbsp;&nbsp;(0.00 %)
+                    </td>
+                </tr>
+                <tr>
+                    <td width=215px;>
                         PlayStation 5
                     </td>
                     <td>

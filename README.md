@@ -117,6 +117,17 @@ Graduated from SCNU
                     </td>
                 </tr>
                 <tr>
+                    <td width=215px;>
+                        OnePlus 8T
+                    </td>
+                    <td>
+                        3,699RMB
+                    </td>
+                    <td>
+                        ██████████&nbsp;&nbsp;(100 %)
+                    </td>
+                </tr>
+                <tr>
                     <td width=220px;>
                         ToolMaster Steeling Wheel 
                     </td>

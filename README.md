@@ -52,13 +52,35 @@ Graduated from SCNU
 <table>
                 <tr>
                     <td width=215px;>
+                        Big House In Enping
+                    </td>
+                    <td>
+                        359,000RMB
+                    </td>
+                    <td>
+                        ░░░░░░░░░░&nbsp;&nbsp;(0.00 %)
+                    </td>
+                </tr>
+                <tr>
+                    <td width=215px;>
+                        BMW 325li
+                    </td>
+                    <td>
+                        359,000RMB
+                    </td>
+                    <td>
+                        ░░░░░░░░░░&nbsp;&nbsp;(0.00 %)
+                    </td>
+                </tr>
+                <tr>
+                    <td width=215px;>
                         MacBook Pro
                     </td>
                     <td>
                         19,000RMB
                     </td>
                     <td>
-                        ████████░░&nbsp;&nbsp;(0.00 %)
+                        ░░░░░░░░░░&nbsp;&nbsp;(0.00 %)
                     </td>
                 </tr>
                 <tr>
@@ -70,6 +92,28 @@ Graduated from SCNU
                     </td>
                     <td width=230px;>
                         █░░░░░░░░░&nbsp;&nbsp;(10.15 %)
+                    </td>
+                </tr>
+                <tr>
+                    <td width=215px;>
+                        nano Ips 2K 144Hz显示器+机械臂
+                    </td>
+                    <td>
+                        3,000RMB
+                    </td>
+                    <td>
+                        ░░░░░░░░░░&nbsp;&nbsp;(0.00 %)
+                    </td>
+                </tr>
+                <tr>
+                    <td width=215px;>
+                        PlayStation 5
+                    </td>
+                    <td>
+                        3,000RMB
+                    </td>
+                    <td>
+                        ░░░░░░░░░░&nbsp;&nbsp;(0.00 %)
                     </td>
                 </tr>
                 <tr>

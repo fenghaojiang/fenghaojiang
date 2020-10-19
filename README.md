@@ -150,5 +150,27 @@ Graduated from SCNU
                     <td width=230px;>
                         ░░░░░░░░░░&nbsp;&nbsp;(0.45 %)
                     </td>
+                </tr>
+                <tr>
+                    <td width=220px;>
+                        StarBuck Poseidon cup 
+                    </td>
+                    <td width=145px;>
+                        129RMB
+                    </td>
+                    <td width=230px;>
+                        ░░░░░░░░░░&nbsp;&nbsp;(0.45 %)
+                    </td>
+                </tr>
+                <tr>
+                    <td width=220px;>
+                        Uniqlo Pants
+                    </td>
+                    <td width=145px;>
+                        270RMB
+                    </td>
+                    <td width=230px;>
+                        ░░░░░░░░░░&nbsp;&nbsp;(0.45 %)
+                    </td>
                 </tr></table>
 <hr>

@@ -44,8 +44,6 @@ Graduated from SCNU
 <img src="https://visitor-badge.laobi.icu/badge?page_id=fenghaojiang.fenghaojiang" alt="visitors"/>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fenghaojiang&layout=compact)
-
 
 📧 Contact me:  
 - mail : fenghaojiang97@m.scnu.edu.cn

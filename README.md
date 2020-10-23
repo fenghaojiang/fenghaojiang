@@ -161,6 +161,17 @@ Graduated from SCNU
                     </td>
                 </tr>
                 <tr>
+                    <td width=215px;>
+                        MicroSoft Intellimouse Pro
+                    </td>
+                    <td>
+                        3,69RMB
+                    </td>
+                    <td>
+                        ██████████&nbsp;&nbsp;(100 %)
+                    </td>
+                </tr>
+                <tr>
                     <td width=220px;>
                         Uniqlo Pants
                     </td>

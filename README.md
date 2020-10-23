@@ -165,7 +165,7 @@ Graduated from SCNU
                         MicroSoft Intellimouse Pro
                     </td>
                     <td>
-                        3,69RMB
+                        369RMB
                     </td>
                     <td>
                         ██████████&nbsp;&nbsp;(100 %)

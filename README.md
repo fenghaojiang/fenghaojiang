@@ -179,6 +179,17 @@ Graduated from SCNU
                         369RMB
                     </td>
                     <td>
+                        ░░░░░░░░░░&nbsp;&nbsp;(100 %)
+                    </td>
+                </tr>
+                <tr>
+                    <td width=215px;>
+                        Mafia: Definitive Edition
+                    </td>
+                    <td>
+                        139RMB
+                    </td>
+                    <td>
                         ██████████&nbsp;&nbsp;(100 %)
                     </td>
                 </tr>

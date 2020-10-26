@@ -179,7 +179,7 @@ Graduated from SCNU
                         369RMB
                     </td>
                     <td>
-                        ░░░░░░░░░░&nbsp;&nbsp;(100 %)
+                        ██████████&nbsp;&nbsp;(100 %)
                     </td>
                 </tr>
                 <tr>

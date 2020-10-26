@@ -118,6 +118,17 @@ Graduated from SCNU
                 </tr>
                 <tr>
                     <td width=215px;>
+                        Converse Seasonal Color Blue
+                    </td>
+                    <td>
+                        279RMB
+                    </td>
+                    <td>
+                        ░░░░░░░░░░&nbsp;&nbsp;(0.00 %)
+                    </td>
+                </tr>
+                <tr>
+                    <td width=215px;>
                         PlayStation 5
                     </td>
                     <td>

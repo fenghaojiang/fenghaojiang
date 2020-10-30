@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 目前从事Golang开发,喜欢折腾，做过3个月的安卓开发实习生，对前端、安卓技术也抱有兴趣  
 毕业于🐉鸣学校SCNU的🐉鸣学院
 
-- English : Currently working as golang developer, interested in Android and frontend  
+- English : Currently working as golang backend developer in a game company, interested in Android and frontend and game programming  
 Graduated from SCNU
 
 

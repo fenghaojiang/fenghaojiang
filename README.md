@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 ![fenghaojiang's github stats](https://github-readme-stats.vercel.app/api?username=fenghaojiang&show_icons=true&bg_color=30,48C9B0,904e95&title_color=fff&text_color=fff)
 
+![header](header_white_.png)
+
 # About me
 
 - Chinese :🐍时不时发布一些抽象文章,偶尔记录下一些朋友的抽象语录  

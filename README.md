@@ -86,6 +86,28 @@ Graduated from SCNU
                     </td>
                 </tr>
                 <tr>
+                    <td width=215px;>
+                        Human Scale/Herman Miller
+                    </td>
+                    <td>
+                        6,000RMB
+                    </td>
+                    <td>
+                        ░░░░░░░░░░&nbsp;&nbsp;(0.00 %)
+                    </td>
+                </tr>
+                <tr>
+                    <td width=215px;>
+                        Brand New Desk
+                    </td>
+                    <td>
+                        2,000RMB
+                    </td>
+                    <td>
+                        ░░░░░░░░░░&nbsp;&nbsp;(0.00 %)
+                    </td>
+                </tr>
+                <tr>
                     <td width=220px;>
                         Niz Keyboard
                     </td>

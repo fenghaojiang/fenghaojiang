@@ -214,7 +214,7 @@ Graduated from SCNU
                         139RMB
                     </td>
                     <td>
-                        ░░░░░░░░░░&nbsp;&nbsp;(100 %)
+                        ██████████&nbsp;&nbsp;(100 %)(Playing!)
                     </td>
                 </tr>
                 <tr>

@@ -229,20 +229,3 @@ Graduated from SCNU
                     </td>
                 </tr></table>
 <hr>
-
-
-var cfgCnt int = 0
-for i, v := range comments {
-   if v.CommentTime == 0 {
-      cnt++
-   }
-}
-
-backwards := gameCfg.CommentPageLimit - cnt
-pageOffset := (data.pagenation - 2)*gameCfg.CommentPageLimit
-
-if data.pagenation > 1 {
-    for j := len(comments) -1 - backwards - pageOffset ; j >= 0 && condition; j -- {
-       //append(...)
-    }
-} 

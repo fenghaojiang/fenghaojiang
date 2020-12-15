@@ -126,7 +126,7 @@ Graduated from SCNU
                         3,000RMB
                     </td>
                     <td>
-                        █████████░&nbsp;&nbsp;(97.00 %)
+                        ░░░░░░░░░░&nbsp;&nbsp;(0.00 %)(Just found not so useful as I expected)
                     </td>
                 </tr>
                 <tr>

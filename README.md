@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 毕业于🐉鸣学校SCNU的🐉鸣学院
 
 - English : Currently working as golang backend developer in a game company, interested in Android and frontend and game programming  
-Graduated from SCNU
+Graduated from SCNU(华南师范大学)
 
 
 **🌈 Languages and Tools:**

@@ -115,7 +115,7 @@ Graduated from SCNU(华南师范大学)
                         663RMB
                     </td>
                     <td width=230px;>
-                        █░░░░░░░░░&nbsp;&nbsp;(10.15 %)
+                        ██████████&nbsp;&nbsp;(100%)
                     </td>
                 </tr>
                 <tr>
@@ -178,7 +178,7 @@ Graduated from SCNU(华南师范大学)
                         ToolMaster Steeling Wheel 
                     </td>
                     <td width=145px;>
-                        2,899RMB
+                        2,499RMB
                     </td>
                     <td width=230px;>
                         ░░░░░░░░░░&nbsp;&nbsp;(0.45 %)
@@ -215,6 +215,17 @@ Graduated from SCNU(华南师范大学)
                     </td>
                     <td>
                         ██████████&nbsp;&nbsp;(100 %)(Clearance)
+                    </td>
+                </tr>
+                <tr>
+                    <td width=215px;>
+                        RTX 3060Ti
+                    </td>
+                    <td>
+                        2999RMB
+                    </td>
+                    <td>
+                        ░░░░░░░░░░&nbsp;&nbsp;(100 %)(Clearance)
                     </td>
                 </tr>
                 <tr>

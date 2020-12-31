@@ -225,7 +225,7 @@ Graduated from SCNU(华南师范大学)
                         2999RMB
                     </td>
                     <td>
-                        ░░░░░░░░░░&nbsp;&nbsp;(100 %)(Clearance)
+                        ░░░░░░░░░░&nbsp;&nbsp;(100 %)
                     </td>
                 </tr>
                 <tr>

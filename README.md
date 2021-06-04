@@ -120,13 +120,13 @@ Graduated from SCNU(华南师范大学)
                 </tr>
                 <tr>
                     <td width=215px;>
-                        nano Ips 2K 144Hz显示器+机械臂
+                        4kAOC卢瓦尔显示器
                     </td>
                     <td>
                         3,000RMB
                     </td>
                     <td>
-                        ░░░░░░░░░░&nbsp;&nbsp;(0.00 %)(Just found not so useful as I expected)
+                        ██████████&nbsp;&nbsp;(100 %)(Upgrade to 4k Luvia)
                     </td>
                 </tr>
                 <tr>

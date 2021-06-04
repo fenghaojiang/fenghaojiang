@@ -120,7 +120,7 @@ Graduated from SCNU(华南师范大学)
                 </tr>
                 <tr>
                     <td width=215px;>
-                        4kAOC卢瓦尔显示器
+                        4k Aoc Luvia monitor
                     </td>
                     <td>
                         3,000RMB

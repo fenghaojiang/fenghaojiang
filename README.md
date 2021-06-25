@@ -17,40 +17,31 @@ Here are some ideas to get you started:
 
 <table>
 <tr>
-<td valign="top" width="54%">
+<td valign="top">  
+
 ### 🔭 Github stats
 ![fenghaojiang's github stats](https://github-readme-stats.vercel.app/api?username=fenghaojiang&show_icons=true&bg_color=30,48C9B0,904e95&title_color=fff&text_color=fff)
 </td>
 
-<td valign="top" width="46%">
+<td valign="top">
 
 ### 🌱 Top languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fenghaojiang&layout=compact&theme=prussian&langs_count=8&hide=HTML,CSS,SCSS)
 </td>
 </tr>
 <tr>
-<td valign="top" width="54%">
+<td valign="top">
 
-### 📊 Weekly development breakdown
+### 📚 Douban activities & Personality  
 
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fenghaojiang&layout=compact&theme=prussian)
+- 在读[《老派約會之必要》](https://book.douban.com/subject/35188501/) - `2021-6-24 16:27:41`
 
 
-</td>
-<td valign="top" width="46%">
-
-<!-- ### 📚 Douban activities
-
-- 想读[《权力的黑光》](https://book.douban.com/subject/35188501/) - `2021-6-24 16:27:41`
-- 看过[《佐贺偶像是传奇 卷土重来》](http://movie.douban.com/subject/34777842/) - `2021-6-24 16:26:11`
-- 玩过[《大冲锋》](http://www.douban.com/game/30126951/) - `2021-6-24 05:25:33`
-- 看过[《本田小狼与我》](http://movie.douban.com/subject/34905821/) - `2021-6-24 03:39:42`
-- 想看[《阳光情人》](http://movie.douban.com/subject/1301725/) - `2021-6-23 17:40:18`
-- 想看[《麻将》](http://movie.douban.com/subject/1297418/) - `2021-6-23 17:39:18`
-- 想看[《相遇伊斯坦布尔》](http://movie.douban.com/subject/35254927/) - `2021-6-23 17:39:00`
-- 想看[《青空娘》](http://movie.douban.com/subject/2361085/) - `2021-6-23 08:45:52`
-- 想读[《飞翔的旗帜：认国旗看世界》](https://book.douban.com/subject/35447071/) - `2021-6-23 07:50:05`
-- 看过[《转生史莱姆日记》](http://movie.douban.com/subject/35006625/) - `2021-6-22 16:23:09` -->
+### ENFP 
+#### some idols
+- [Ernesto "Che" Guevara](https://personality-database.com/profile/3043/ernesto-che-guevara-historical-figures-1900s-mbti-personality-type)  
+- [John von Neumann](https://www.personality-database.com/profile/30514/john-von-neumann-mathematics-mbti-personality-type)
+- [Keanu Reeves](https://www.personality-database.com/profile/2484/keanu-reeves-actors-actresses-canada-mbti-personality-type)
 
 </td>
 </tr>

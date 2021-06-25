@@ -63,7 +63,7 @@ Graduated from SCNU(华南师范大学)
 
 **🌈 Languages and Tools:**
 
-<!-- <p align="left">
+<p align="left">
 <img src="./image/go-original.svg" alt="go" width="90" height="90"/>
 <img src="./image/android-plain.svg" alt="android" width="90" height="90">
 <img src="./image/java-original.svg" alt="java" width="90" height="90">
@@ -73,7 +73,7 @@ Graduated from SCNU(华南师范大学)
 <img src="./image/vuejs-original-wordmark.svg" alt="vuejs" width="90" height="90"/>
 <img src="./image/docker-plain-wordmark.svg" alt="docker" width="90" height="90"/>
 <img src="./image/apple-original.svg" alt="vuejs" width="90" height="90"/>
-</p> -->
+</p>
 
 <p align="left">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=fenghaojiang.fenghaojiang" alt="visitors"/>

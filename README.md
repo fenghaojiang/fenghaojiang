@@ -14,7 +14,49 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<table>
+<tr>
+<td valign="top" width="54%">
+### 🔭 Github stats
 ![fenghaojiang's github stats](https://github-readme-stats.vercel.app/api?username=fenghaojiang&show_icons=true&bg_color=30,48C9B0,904e95&title_color=fff&text_color=fff)
+</td>
+
+<td valign="top" width="46%">
+
+### 🌱 Top languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fenghaojiang&layout=compact&theme=prussian&langs_count=8&hide=HTML,CSS,SCSS)
+</td>
+</tr>
+<tr>
+<td valign="top" width="54%">
+
+### 📊 Weekly development breakdown
+
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fenghaojiang&layout=compact&theme=prussian)
+
+
+</td>
+<td valign="top" width="46%">
+
+<!-- ### 📚 Douban activities
+
+- 想读[《权力的黑光》](https://book.douban.com/subject/35188501/) - `2021-6-24 16:27:41`
+- 看过[《佐贺偶像是传奇 卷土重来》](http://movie.douban.com/subject/34777842/) - `2021-6-24 16:26:11`
+- 玩过[《大冲锋》](http://www.douban.com/game/30126951/) - `2021-6-24 05:25:33`
+- 看过[《本田小狼与我》](http://movie.douban.com/subject/34905821/) - `2021-6-24 03:39:42`
+- 想看[《阳光情人》](http://movie.douban.com/subject/1301725/) - `2021-6-23 17:40:18`
+- 想看[《麻将》](http://movie.douban.com/subject/1297418/) - `2021-6-23 17:39:18`
+- 想看[《相遇伊斯坦布尔》](http://movie.douban.com/subject/35254927/) - `2021-6-23 17:39:00`
+- 想看[《青空娘》](http://movie.douban.com/subject/2361085/) - `2021-6-23 08:45:52`
+- 想读[《飞翔的旗帜：认国旗看世界》](https://book.douban.com/subject/35447071/) - `2021-6-23 07:50:05`
+- 看过[《转生史莱姆日记》](http://movie.douban.com/subject/35006625/) - `2021-6-22 16:23:09` -->
+
+</td>
+</tr>
+</table>
+
+
 
 ![header](header_white_.png)
 
@@ -30,7 +72,7 @@ Graduated from SCNU(华南师范大学)
 
 **🌈 Languages and Tools:**
 
-<p align="left">
+<!-- <p align="left">
 <img src="./image/go-original.svg" alt="go" width="90" height="90"/>
 <img src="./image/android-plain.svg" alt="android" width="90" height="90">
 <img src="./image/java-original.svg" alt="java" width="90" height="90">
@@ -40,7 +82,7 @@ Graduated from SCNU(华南师范大学)
 <img src="./image/vuejs-original-wordmark.svg" alt="vuejs" width="90" height="90"/>
 <img src="./image/docker-plain-wordmark.svg" alt="docker" width="90" height="90"/>
 <img src="./image/apple-original.svg" alt="vuejs" width="90" height="90"/>
-</p>
+</p> -->
 
 <p align="left">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=fenghaojiang.fenghaojiang" alt="visitors"/>

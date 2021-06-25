@@ -83,7 +83,7 @@ Graduated from SCNU(华南师范大学)
 📧 Contact me:  
 - mail : fenghaojiang97@m.scnu.edu.cn
 
-<h2>📊 Dream List: </h2>
+<!-- <h2>📊 Dream List: </h2>
 <table>
                 <tr>
                     <td width=215px;>
@@ -262,3 +262,4 @@ Graduated from SCNU(华南师范大学)
                     </td>
                 </tr></table>
 <hr>
+ -->

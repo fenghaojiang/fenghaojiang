@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Metrics](https://github.com/fenghaojiang/fenghaojiang/blob/main/github-metrics.svg)
+
 
 <table>
 <tr>

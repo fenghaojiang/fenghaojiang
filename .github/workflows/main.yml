@@ -18,7 +18,7 @@ jobs:
           # Options
           user: fenghaojiang
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header
           config_timezone: Asia/Shanghai
           plugin_introduction: yes
           plugin_introduction_title: yes

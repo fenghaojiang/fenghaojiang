@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ### 📚 Douban activities & Personality  
 
-- 在读[《老派約會之必要》](https://book.douban.com/subject/11632296/) - `2021-6-24 16:27:41`
+- 读完[《老派約會之必要》](https://book.douban.com/subject/11632296/) - `2021-7-14`
 
 
 ### ENFP 

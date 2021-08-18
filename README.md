@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 
 
-![header](header_white_.png)
+<!-- ![header](header_white_.png) -->
 
 # About me
 

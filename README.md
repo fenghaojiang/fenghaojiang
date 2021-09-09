@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <tr>
 <td valign="top">
 
-### 📚 Douban activities & Personality  
+<!-- ### 📚 Douban activities & Personality  
 
 - 读完[《老派約會之必要》](https://book.douban.com/subject/11632296/) - `2021-7-14`
 
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 </td>
 </tr>
-</table>
+</table> -->
 
 
 

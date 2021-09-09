@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 </td>
 </tr>
 <tr>
-<td valign="top">
+<!-- <td valign="top"> -->
 
 <!-- ### 📚 Douban activities & Personality  
 

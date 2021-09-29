@@ -55,11 +55,11 @@ Here are some ideas to get you started:
 
 # About me
 
-- Chinese :🐍时不时发布一些抽象文章,偶尔记录下一些朋友的抽象语录  
+<!-- - Chinese :🐍时不时发布一些抽象文章,偶尔记录下一些朋友的抽象语录  
 目前从事Golang开发,喜欢折腾，做过3个月的安卓开发实习生，对前端、安卓技术也抱有兴趣  
-毕业于🐉鸣学校SCNU的🐉鸣学院
+毕业于🐉鸣学校SCNU的🐉鸣学院 -->
 
-- English : Currently working as golang backend developer in a game company, interested in Android and frontend and game programming  
+- Currently working as golang backend developer in GuangZhou.  
 Graduated from SCNU(华南师范大学)
 
 

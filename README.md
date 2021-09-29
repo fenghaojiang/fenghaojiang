@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 毕业于🐉鸣学校SCNU的🐉鸣学院 -->
 
 - Currently working as golang backend developer in GuangZhou.  
-Graduated from SCNU(华南师范大学)
+Graduated from South China Normal University, Major in Communication Engineering(华南师范大学, 通信工程)
 
 
 **🌈 Languages and Tools:**

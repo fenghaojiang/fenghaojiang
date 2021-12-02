@@ -77,6 +77,7 @@ Graduated from South China Normal University, Major in Communication Engineering
 <img src="./image/vuejs-original-wordmark.svg" alt="vuejs" width="90" height="90"/>
 <img src="./image/docker-plain-wordmark.svg" alt="docker" width="90" height="90"/>
 <img src="./image/apple-original.svg" alt="vuejs" width="90" height="90"/>
+<img src="./image/typescript-original.svg" alt="ts" width="90" height="90"/>
 </p>
 
 <p align="left">

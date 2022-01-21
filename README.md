@@ -80,7 +80,7 @@ Graduated from South China Normal University, Major in Communication Engineering
 <img src="./image/typescript-original.svg" alt="ts" width="90" height="90"/>
 </p>
 
-<p align="left">
+<p align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=fenghaojiang.fenghaojiang" alt="visitors"/>
 </p>
 

@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 LeetCode: https://leetcode-cn.com/u/fenghaojiang97/
 
@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 目前从事Golang开发,喜欢折腾，做过3个月的安卓开发实习生，对前端、安卓技术也抱有兴趣  
 毕业于🐉鸣学校SCNU的🐉鸣学院 -->
 
-- Currently working as golang backend developer in GuangZhou.  
+- Currently working as golang backend developer in Shenzhen.  
 Graduated from South China Normal University, Major in Communication Engineering(华南师范大学, 通信工程)
 
 

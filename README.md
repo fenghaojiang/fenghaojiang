@@ -74,7 +74,7 @@ Graduated from South China Normal University, Major in Communication Engineering
 <img src="./image/go-original.svg" alt="go" width="90" height="90"/>
 <!-- <img src="./image/android-plain.svg" alt="android" width="90" height="90"> -->
 <!-- <img src="./image/java-original.svg" alt="java" width="90" height="90"> -->
-<img src="./image/javascript-original.svg" alt="javascript" width="90" height="90"/>
+<!-- <img src="./image/javascript-original.svg" alt="javascript" width="90" height="90"/> -->
 <img src="./image/kubernetes-plain.svg" alt="kubernetes" width="90" height="90"/>
 <img src="./image/react-original-wordmark.svg" alt="react" width="90" height="90"/>
 <img src="./image/vuejs-original-wordmark.svg" alt="vuejs" width="90" height="90"/>

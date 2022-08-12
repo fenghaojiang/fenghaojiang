@@ -1,7 +1,5 @@
 <!-- ### Hi there 👋 -->
 
-LeetCode: https://leetcode-cn.com/u/fenghaojiang97/
-
 <!--
 **fenghaojiang/fenghaojiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,11 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-<!-- ![Metrics](https://github.com/fenghaojiang/fenghaojiang/blob/main/github-metrics.svg) -->
-
-
 
 <table>
 <tr>
@@ -37,23 +30,8 @@ Here are some ideas to get you started:
 </td>
 </tr>
 <tr>
-<!-- <td valign="top"> -->
 
-<!-- ### 📚 Douban activities & Personality  
-
-- 读完[《老派約會之必要》](https://book.douban.com/subject/11632296/) - `2021-7-14`
-
-
-### ENFP 
-#### some idols
-- [Ernesto "Che" Guevara](https://personality-database.com/profile/3043/ernesto-che-guevara-historical-figures-1900s-mbti-personality-type)  
-- [John von Neumann](https://www.personality-database.com/profile/30514/john-von-neumann-mathematics-mbti-personality-type)
-- [Keanu Reeves](https://www.personality-database.com/profile/2484/keanu-reeves-actors-actresses-canada-mbti-personality-type)
-
-</td>
-</tr>
-</table> -->
-
+</table>
 
 
 <!-- ![header](header_white_.png) -->

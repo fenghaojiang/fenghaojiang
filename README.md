@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 </table>
 
 
+![](https://activity-graph.herokuapp.com/graph?username=fenghaojiang&theme=github)
 <p align="center">
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=fenghaojiang&theme=github)
 <img src="https://visitor-badge.laobi.icu/badge?page_id=fenghaojiang.fenghaojiang" alt="visitors"/>
 </p>
 

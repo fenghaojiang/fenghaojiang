@@ -24,9 +24,8 @@ Here are some ideas to get you started:
 </td>
 
 <td valign="top">
-
-### 🌱 Top languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fenghaojiang&layout=compact&theme=prussian&langs_count=8&hide=HTML,CSS,SCSS)
+### 🌱 Graph
+![](https://activity-graph.herokuapp.com/graph?username=fenghaojiang&theme=github)
 </td>
 </tr>
 <tr>

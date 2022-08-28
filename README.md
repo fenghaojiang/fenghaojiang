@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <td valign="top">
 ### 🌱 Graph
-![](https://activity-graph.herokuapp.com/graph?username=fenghaojiang&theme=github)
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=fenghaojiang&theme=github)
 </td>
 </tr>
 <tr>

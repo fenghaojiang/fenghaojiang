@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="760" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="778" class="">
     <defs>
         <style/>
     </defs>
@@ -65,7 +65,7 @@
                 </h2>
                 <div class="row fill-width">
                     <section>
-                        <div class="introduction">Blockchain Infrastructure Engineer. Gopher. Trying to be Rustacean.</div>
+                        <div class="introduction">Distributed System Engineer / Blockchain Infrastructure Engineer. Gopher. Trying to be Rustacean.</div>
                     </section>
                 </div>
             </section>

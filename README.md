@@ -20,4 +20,4 @@
 
 
 📧 Contact me:  
-- mail : fenghaojiang97@m.scnu.edu.cn
+- mail : fenghaojiang97@gmail.com

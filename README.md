@@ -7,11 +7,12 @@
 ### 🔭 Github stats
 ![fenghaojiang's github stats](https://github-readme-stats.vercel.app/api?username=fenghaojiang&show_icons=true&bg_color=30,48C9B0,904e95&title_color=fff&text_color=fff)
 </td>
-
-
+  
 </tr>
 
 </table>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fenghaojiang&layout=compact&hide=html,css)](https://github-readme-stats.vercel.app/api/top-langs/?username=fenghaojiang&layout=compact&hide=html,css)
 
 ![](https://activity-graph.herokuapp.com/graph?username=fenghaojiang&theme=github)
 <p align="center">
